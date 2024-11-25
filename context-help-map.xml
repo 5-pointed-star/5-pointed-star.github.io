@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_jck_3l3_mdc" path="Zotero_Intro.html"/>
+   <appContext helpID="installation-and-configurations"
+               path="installation-and-configurations.html"/>
+   <appContext helpID="download_install_and_upgrade"
+               path="download_install_and_upgrade.html"/>
+   <appContext helpID="how_to_download_zotero_0" path="how_to_download_zotero.html"/>
+   <appContext helpID="how_to_downloan_zotero"
+               path="how_to_download_zotero%20to%20win%20and%20mac.html"/>
+   <appContext helpID="how_to_download_zotero_to_ios"
+               path="how_to_download_zotero_to_ios.html"/>
+   <appContext helpID="how_to_install_zotero_0" path="how_to_install_zotero.html"/>
+   <appContext helpID="how_to_install_zotero_to_windows"
+               path="how_to_install_zotero_to_windows.html"/>
+   <appContext helpID="how_to_install_zotero_to_mac"
+               path="how_to_install_zotero_to_mac.html"/>
+   <appContext helpID="how_to_install_zotero_to_ios"
+               path="how_to_install_zotero_to_ios.html"/>
+   <appContext helpID="how_to_upgrade_zotero" path="how_to_upgrade_zotero.html"/>
+   <appContext helpID="automatic_upgrade" path="automatic_upgrade.html"/>
+   <appContext helpID="manual_upgrade" path="manual_upgrade.html"/>
+   <appContext helpID="account_management" path="account_management.html"/>
+   <appContext helpID="sign_up" path="sign_up.html"/>
+   <appContext helpID="sign_in" path="sign_in.html"/>
+   <appContext helpID="how_to_set_language" path="how_to_set_language.html"/>
+   <appContext helpID="_topic"
+               path="Synchronization%20and%20backup%20setting%20topic.html"/>
+   <appContext helpID="zotero_" path="zotero%20built-in%20sync%20function.html"/>
+   <appContext helpID="_zotero_"
+               path="How%20to%20do%20zotero's%20built-in%20sync.html"/>
+   <appContext helpID="_" path="Nut%20Cloud%20Sync.html"/>
+   <appContext helpID="_" path="How%20to%20do%20nut%20cloud%20syncing.html"/>
+   <appContext helpID="_" path="Plug-in%20installation.html"/>
+   <appContext helpID="_" path="Browser%20plug-in%20installation.html"/>
+   <appContext helpID="_zotero_"
+               path="How%20to%20install%20the%20zotero%20browser%20add-on.html"/>
+   <appContext helpID="_zotero_"
+               path="How%20to%20install%20the%20zotero%20built-in%20plugin.html"/>
+   <appContext helpID="_" path="Update%20plug-in.html"/>
+   <appContext helpID="_" path="How%20to%20make%20plugin%20updates.html"/>
+   <appContext helpID="_" path="Remove%20plug-in.html"/>
+   <appContext helpID="zotero" path="How%20to%20remove%20the%20Zotero%20plugin.html"/>
+   <appContext helpID="basics" path="basics.html"/>
+   <appContext helpID="manage_your_library" path="manage_your_library.html"/>
+   <appContext helpID="how_to_set_location_dita" path="how_to_set_location.html"/>
+   <appContext helpID="how_to_import_items_dita" path="how_to_import_items.html"/>
+   <appContext helpID="how_to_delete_items_dita" path="how_to_delete_items.html"/>
+   <appContext helpID="zotero_tags" path="zotero_tags.html"/>
+   <appContext helpID="zotero_notes" path="zotero_notes.html"/>
+   <appContext helpID="editing_items" path="editing_items.html"/>
+   <appContext helpID="related_items" path="related_items.html"/>
+   <appContext helpID="categories" path="categories.html"/>
+   <appContext helpID="how_to_create_categories" path="how_to_create_categories.html"/>
+   <appContext helpID="how_to_delete_categories" path="how_to_delete_categories.html"/>
+   <appContext helpID="other_categories" path="other_categories.html"/>
+   <appContext helpID="my_publications" path="my_publications.html"/>
+   <appContext helpID="duplicate_items" path="duplicate_items.html"/>
+   <appContext helpID="unfiled_items" path="unfiled_items.html"/>
+   <appContext helpID="trash" path="trash.html"/>
+   <appContext helpID="add_files" path="add_files.html"/>
+   <appContext helpID="child_vs_standalone" path="child_vs_standalone.html"/>
+   <appContext helpID="stored_and_linked_files" path="stored_and_linked_files.html"/>
+   <appContext helpID="adding_files" path="adding_files.html"/>
+   <appContext helpID="citation" path="citation.html"/>
+   <appContext helpID="create_bibliographies" path="create_bibliographies.html"/>
+   <appContext helpID="citation_styles_dita" path="citation_styles.html"/>
+   <appContext helpID="zotero_advanced_features" path="advanced%20function.html"/>
+   <appContext helpID="zotero_common_issues"
+               path="common%20issues%20and%20solutions.html"/>
+   <appContext helpID="concept_gs3_w53_mdc" path="Zotero_Appendixes.html"/>
+</map>
